@@ -22,7 +22,7 @@ Citizen.CreateThread(function()
                     coords = teleport.coords
                 },
             },
-            distance = 3.5
+            distance = 2
         })
     end
 end)
